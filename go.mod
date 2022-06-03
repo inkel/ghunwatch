@@ -1,4 +1,4 @@
-module github.com/inkel/ghwatch
+module github.com/inkel/ghunwatch
 
 go 1.18
 
